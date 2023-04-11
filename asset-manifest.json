@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/webmazza-bistrocafe/static/css/main.e0c36d9c.css",
-    "main.js": "/webmazza-bistrocafe/static/js/main.a7205e11.js",
+    "main.css": "/webmazza-bistrocafe/static/css/main.0d309f92.css",
+    "main.js": "/webmazza-bistrocafe/static/js/main.ebcb9795.js",
     "static/media/bg.png": "/webmazza-bistrocafe/static/media/bg.51b1e69cded5efe1b202.png",
     "static/media/body-bg-pattern.png": "/webmazza-bistrocafe/static/media/body-bg-pattern.6c31ed84fb390068021b.png",
     "static/media/plate.png": "/webmazza-bistrocafe/static/media/plate.38b35e4117beb079260a.png",
@@ -16,11 +16,11 @@
     "index.html": "/webmazza-bistrocafe/index.html",
     "static/media/arrow-left.svg": "/webmazza-bistrocafe/static/media/arrow-left.77d5a5d78b1b76ce16f3.svg",
     "static/media/arrow-right.svg": "/webmazza-bistrocafe/static/media/arrow-right.c331d5c20dca215affc8.svg",
-    "main.e0c36d9c.css.map": "/webmazza-bistrocafe/static/css/main.e0c36d9c.css.map",
-    "main.a7205e11.js.map": "/webmazza-bistrocafe/static/js/main.a7205e11.js.map"
+    "main.0d309f92.css.map": "/webmazza-bistrocafe/static/css/main.0d309f92.css.map",
+    "main.ebcb9795.js.map": "/webmazza-bistrocafe/static/js/main.ebcb9795.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0c36d9c.css",
-    "static/js/main.a7205e11.js"
+    "static/css/main.0d309f92.css",
+    "static/js/main.ebcb9795.js"
   ]
 }
